@@ -15,7 +15,7 @@ class SpringBootJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("SpringBootJenkinsApplicationTests executed!....");
-		assertEquals(true, false);
+		assertEquals(true, true);
 	}
 
 }

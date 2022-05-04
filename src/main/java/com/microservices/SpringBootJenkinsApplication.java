@@ -19,6 +19,7 @@ public class SpringBootJenkinsApplication {
 
 	public static void main(String[] args) {
 		logger.info("Spring Boot Jenkins App Executing!..");
+		logger.info("Spring Boot Jenkins App 2nd Condition Executing!..");
 		SpringApplication.run(SpringBootJenkinsApplication.class, args);
 	}
 
